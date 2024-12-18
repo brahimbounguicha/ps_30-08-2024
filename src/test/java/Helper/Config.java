@@ -9,6 +9,8 @@ public class Config {
 	
 	public static WebDriver driver; 
 	
+	public static WebDriver driver2; 
+	
 	
 	public static Actions avtions; 
 	
